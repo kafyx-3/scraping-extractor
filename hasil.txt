@@ -1,0 +1,97 @@
+URL: https://webscraper.io/test-sites
+Tag: <div> Class: col
+Total: 4 data
+================================================================================
+
+[1]
+<div class="col">
+<a class="d-flex h-100" href="https://webscraper.io/test-sites/pagination">
+<div class="sitemap-card row h-100">
+<div class="col-lg-6 order-lg-2">
+<div class="card-header">
+<h2 class="card-title">
+										Test site with pagination links
+									</h2>
+</div>
+<div class="card-body">
+<p class="card-subtitle">
+										Test site with multiple categories, subcategories. Standard links are used for pagination.
+									</p>
+</div>
+</div>
+<div class="col-lg-6 order-lg-1 d-flex align-items-center justify-content-center">
+<img alt="Test site with pagination links icon" class="align-middle" src="/images/test-sites/pagination.svg"/>
+</div>
+</div>
+</a>
+</div>
+--------------------------------------------------------------------------------
+[2]
+<div class="col">
+<a class="d-flex h-100" href="https://webscraper.io/test-sites/load-more">
+<div class="sitemap-card row h-100">
+<div class="col-lg-6 order-lg-2">
+<div class="card-header">
+<h2 class="card-title">
+										Test site with load more button
+									</h2>
+</div>
+<div class="card-body">
+<p class="card-subtitle">
+										Test site with multiple categories, subcategories. Instead of using pagination this site uses a load more button to load more items.
+									</p>
+</div>
+</div>
+<div class="col-lg-6 order-lg-1 d-flex align-items-center justify-content-center">
+<img alt="Test site with load more button icon" class="align-middle" src="/images/test-sites/more.svg"/>
+</div>
+</div>
+</a>
+</div>
+--------------------------------------------------------------------------------
+[3]
+<div class="col">
+<a class="d-flex h-100" href="https://webscraper.io/test-sites/scroll">
+<div class="sitemap-card row h-100">
+<div class="col-lg-6 order-lg-2">
+<div class="card-header">
+<h2 class="card-title">
+										Test site that loads items while scrolling
+									</h2>
+</div>
+<div class="card-body">
+<p class="card-subtitle">
+										Test site with multiple categories, subcategories. Instead of using pagination this site loads items when user scrolls the page down.
+									</p>
+</div>
+</div>
+<div class="col-lg-6 order-lg-1 d-flex align-items-center justify-content-center">
+<img alt="Test site that loads items while scrolling icon" class="align-middle" src="/images/test-sites/scroll.svg"/>
+</div>
+</div>
+</a>
+</div>
+--------------------------------------------------------------------------------
+[4]
+<div class="col">
+<a class="d-flex h-100" href="https://webscraper.io/test-sites/website-state-setup-login">
+<div class="sitemap-card row h-100">
+<div class="col-lg-6 order-lg-2">
+<div class="card-header">
+<h2 class="card-title">
+										Test site with log-in
+									</h2>
+</div>
+<div class="card-body">
+<p class="card-subtitle">
+										Test site with multiple categories, subcategories. In order to access this site, the user needs to be logged in.
+									</p>
+</div>
+</div>
+<div class="col-lg-6 order-lg-1 d-flex align-items-center justify-content-center">
+<img alt="Test site with log-in icon" class="align-middle" src="/images/test-sites/login.svg"/>
+</div>
+</div>
+</a>
+</div>
+--------------------------------------------------------------------------------
